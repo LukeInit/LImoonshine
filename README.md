@@ -113,4 +113,4 @@ This script includes comprehensive error handling, logging, and cleanup systems.
 
 ## License
 
-This project is licensed under the MIT License.
+use it or dont, edit it or dont ...
